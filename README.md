@@ -9,9 +9,6 @@
 
 <div align="center"> 
   
-
-| <a href="https://github.com/Guil61/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Guil61&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Guil's github stats" /></a> | <a href="https://github.com/Guil61/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guil61&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
 </div>
 
 <br>
