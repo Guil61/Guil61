@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img height="40" alt="javascript" src="https://cdn-icons-png.flaticon.com/512/5812/5812746.png">, I'm Andre Guil</h1>
 <br>
-<h3 align="center">Hi, I'm Andre Guil, a Software Engineer looking for knowledge from Brazil. Im currently a fullstack developer at PlaceTi</h3>
+<h3 align="center">Hey there! I'm Andre, a software developer from Brazil. I'm currently a fullstack developer at PlaceTi</h3>
 <h3 align="center">Connect with me:</h3>
 <div align="center">  
   <code><a href="https://www.linkedin.com/in/andre-guil-312159228/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank" alt="linkedin" width="50"></a></code>
